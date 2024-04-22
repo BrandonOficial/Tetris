@@ -1,2 +1,3 @@
 # Tetris
-tetris desenvolvido em Java
+tetris desenvolvido em JS
+
